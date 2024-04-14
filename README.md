@@ -1,6 +1,6 @@
 ﻿﻿<h2 style="text-align:center">Tela de Login</h2>
 
-<p style="text-align:center">Mais um projeto criado com HTML, CSS e um simples toque de JavaScript. Desta vez uma simples tela de login, mantendo as praticas em css e css responsivo.</p>
+<p style="text-align:center">Mais um projeto criado com HTML, CSS e um simples toque de JavaScript sá pra criar um efeito onclick e onblur. Desta vez uma simples tela de login, mantendo as praticas em css e css responsivo.</p>
 
 <a href="https://deividsonhenrique.github.io/Login/" target="_blank">Link do Projeto Login</a>
 
